@@ -43,5 +43,5 @@ python coca_cola_analysis.py
 
 ---
 
-📌 **Author:** Your Name  
+📌 **Author:** AKASH
 📌 **License:** MIT
